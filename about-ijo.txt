@@ -1,0 +1,5 @@
+Name: Ijo Byju
+Major: Computer Science
+Favorite Programming Language: Python
+Why am I learning Git: I want to get started with developing my skills on real world programming
+
