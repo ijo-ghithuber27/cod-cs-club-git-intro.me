@@ -1,0 +1,5 @@
+Projects I would like to build
+
+1. Python Data Analysis
+2. Machine Learning
+3. Web Application
